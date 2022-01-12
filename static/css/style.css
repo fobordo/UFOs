@@ -1,0 +1,11 @@
+body {
+    /*Formats the font color for the body of the page*/
+    color: #f7f7f7;
+}
+
+/*Sets the background image, and formats the background size and text alignment of the jumbotron*/
+.jumbotron {
+    background-image: url("../images/nasa.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+}
